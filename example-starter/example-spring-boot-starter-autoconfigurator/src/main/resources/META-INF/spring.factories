@@ -1,0 +1,5 @@
+# 配置启动时自动加载那些配置类
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.saikie.starter.HelloServiceAutoConfiguration
+
